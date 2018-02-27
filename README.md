@@ -9,6 +9,8 @@
 
 ## Introduction
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f60e17a73edf4240a00914e5d957ba25)](https://app.codacy.com/app/ringkubd/socialite?utm_source=github.com&utm_medium=referral&utm_content=ringkubd/socialite&utm_campaign=badger)
+
 Laravel Socialite provides an expressive, fluent interface to OAuth authentication with Facebook, Twitter, Google, LinkedIn, GitHub and Bitbucket. It handles almost all of the boilerplate social authentication code you are dreading writing.
 
 **We are not accepting new adapters.**
